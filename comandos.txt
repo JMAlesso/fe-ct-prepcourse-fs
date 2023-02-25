@@ -1,0 +1,13 @@
+COMANDOS :
+mkdir (make directory) sirve para crear carpetas para que funcione correctamente se debe agregar el comando + en nombre que querramos poner a la carpeta
+ej (mkdir carpeta1)
+mkdir -v 
+pwd imprime el directorio o rutas por las cuales estamos trabajando actualmente
+ls sirve para listar los elemenos de la carpeta en la que nos encontramos actualmente
+cd (change directory)nos ayuda a cambiar de directorio o carpeta 
+cd .. sirve para volver hacia atras en el directorio o carpeta actual
+clear sirve para limpiar la terminal
+touch crea un nuevo archivo vacio (siempre definir la extencion)
+rm sirve para eliminar el archivo 
+rm -r sirve para eliminar una carpeta o directorio
+help nos da una lista de comandos basicos para ayudarnos
